@@ -16,6 +16,11 @@ Portal Admin, Coordinator
 angelica.quirarte@govops.ca.gov  
 916-812-6864  
 
+**Lori Mattas, CDT Innovation**  
+Portal Admin, Coordinator  
+lori.mattas@state.ca.gov  
+916-431-5046 
+
 **Sam Hayashi, CDT Innovation**  
 Portal Admin, GIS  
 sam.hayashi@state.ca.gov  
@@ -25,11 +30,6 @@ sam.hayashi@state.ca.gov
 Portal Admin, Training  
 steven.pierce@state.ca.gov  
 916-431-4270  
-
-**Joseph Lei, CDT Innovation**  
-Portal Admin, Data Science  
-joseph.lei@state.ca.gov  
-916-431-3290  
 
 **John Cornelison, State Library**  
 Portal Admin, Metadata  
